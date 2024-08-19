@@ -65,12 +65,3 @@ function Login() {
       let loginRes = document.getElementById('login-result')
       loginRes.innerText = loginMessage
     }
-    
-      
-
-    
-
-
-
-
-
